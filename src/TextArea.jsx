@@ -2,8 +2,7 @@ import { useState } from "react";
 import Warning from "./Warning";
 
 // Controlled TextArea component
-export default function TextArea() {
-  const [text, setText] = useState("");
+export default function TextArea({ text = "", setText }) {
   const [warning, setWarning] = useState("");
 
   const handleOnChange = (e) => {
