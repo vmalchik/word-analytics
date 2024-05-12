@@ -1,6 +1,6 @@
 # Word Counter Web App
 
-Welcome to the Word Counter Web App! This intuitive application allows you to quickly analyze text to track various metrics such as the total number of characters, words, and the proximity to social media platforms' character limits. This guide will provide you with all the necessary details to get started with this app.
+Welcome to the Word Counter Web App! This intuitive application allows you to quickly analyze text to track total number of characters, words, and the proximity to social media platforms' character limits. This guide will provide you with all the necessary details to get started with this app.
 
 [![Watch the video](app_preview.png)](https://youtu.be/nsbUlntz1dA)
 
