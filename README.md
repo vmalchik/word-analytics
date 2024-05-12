@@ -10,7 +10,7 @@ _(Right-click and select "Open link in new tab" to watch the video in a new tab.
 
 - **Character Count**: Instantly view the total number of characters in your input text.
 - **Word Count**: Track how many words are in your text.
-- **Facebook Character Limit**: Displays how many characters you can still add before reaching the 63,206 character limit for a Facebook post. If the limit is exceeded, the count turns red.
+- **Facebook Character Limit**: Displays how many characters you can still add before reaching the 280 character limit for a Facebook post. If the limit is exceeded, the count turns red.
 - **Instagram Character Limit**: Shows how many characters until the 2,200 character limit for Instagram captions is reached or exceeded. Exceeding this limit also turns the count red.
 - **Input Validation**: Ensures that your text does not contain potentially harmful scripts (e.g., `<script>` tags).
 
