@@ -24,7 +24,7 @@ To get the project running on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/word-analytics.git
+   git clone https://github.com/vmalchik/word-analytics.git
    cd word-analytics
    ```
 2. Install the dependencies:
